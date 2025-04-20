@@ -45,6 +45,8 @@ number,username,password,name,gender,birth,id,phone
 
 ## 题解
 
+本题数据集来自 2024 年羊城杯初赛
+
 ```python
 import re
 from tqdm import tqdm
